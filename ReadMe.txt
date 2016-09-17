@@ -1,0 +1,1 @@
+Here, Logistic Regression, Multiclass Logistic Regression and Support Vector Machine tool in sklearn.svm.SVM is implemeted to classify hand-written digit images and compare the performance of these methods. The given mnist_all data is used to train, validate and test the hand-written digit classification for each model.
